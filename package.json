@@ -1,0 +1,9 @@
+{
+  "name": "com.coimbra.pooling",
+  "displayName": "Pool System",
+  "author": "Bruno Coimbra",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Quick enable GameObject pooling in any Unity project.",
+  "type": "tool"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Coimbra.Pooling.Editor",
+    "references": [
+        "Coimbra",
+        "Coimbra.Editor",
+        "Coimbra.Pooling"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
